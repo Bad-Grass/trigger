@@ -3,15 +3,19 @@
     font-family: 'Poppins', sans-serif;*/
 
 body {
-  background-color: red;
+  background-color: white;
 }
 h1 {
-  color: white;
-  text-align: center;
+  color: black;
+
   font-family: "Poppins", sans-serif;
   font-weight: bold;
 }
 p {
   font-family: "Playfair Display", serif;
   font-weight: normal;
+}
+.hero {
+  background-color: f9f7ke;
+  text-align: center;
 }
