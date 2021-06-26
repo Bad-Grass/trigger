@@ -15,18 +15,18 @@ h1 {
 h2 {
   font-size: 37px;
 }
-.about-section h1 {
+.content-container h1 {
   font-size: 36px;
   line-height: 80px;
 }
-.about-section h2 {
+.content-container h2 {
   font-size: 18px;
   font-family: "Poppins", sans-serif;
 }
-.about-section {
+.content-container {
   padding: 140px 20px;
 }
-.about-section-content {
+.content {
   margin: 30px;
 }
 p {
@@ -91,7 +91,4 @@ p {
 .images {
   margin-top: 30px;
   padding-top: 100px;
-}
-.laure {
-  border-radius: 10px;
 }
