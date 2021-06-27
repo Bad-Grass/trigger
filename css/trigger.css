@@ -88,10 +88,7 @@ p {
     text-align: center;
   }
 }
-.images {
-  margin-top: 30px;
-  padding-top: 100px;
-}
+
 .active {
   color: #6c63ff !important;
 }
@@ -102,4 +99,8 @@ p {
 .logo {
   max-width: 50px;
   margin-right: 10px;
+}
+img {
+  margin-top: 150px;
+  margin-left: 40px;
 }
