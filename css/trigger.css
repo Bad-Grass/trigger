@@ -100,7 +100,7 @@ p {
   max-width: 50px;
   margin-right: 10px;
 }
-img {
+img.img-fluid {
   margin-top: 150px;
   margin-left: 40px;
 }
