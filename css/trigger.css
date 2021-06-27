@@ -82,10 +82,13 @@ p {
   h2 {
     font-size: 44px;
   }
+
   .about-section {
     padding: 80px 20px;
   }
-
+  .contact-box {
+    padding: 30px;
+  }
   .category-desciption {
     padding: 0;
     text-align: center;
