@@ -82,6 +82,9 @@ p {
   h2 {
     font-size: 44px;
   }
+  .hero {
+    padding: 80px 20px;
+  }
 
   .about-section {
     padding: 80px 20px;
@@ -89,9 +92,8 @@ p {
   .contact-box {
     padding: 30px;
   }
-  .category-desciption {
-    padding: 0;
-    text-align: center;
+  .category-description {
+    padding: 20px;
   }
 }
 
