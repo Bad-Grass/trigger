@@ -95,6 +95,9 @@ p {
   .category-description {
     padding: 20px;
   }
+  .content-container {
+    padding: 2px;
+  }
 }
 
 .active {
